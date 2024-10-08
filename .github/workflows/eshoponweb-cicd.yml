@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-Az400Rogier
   LOCATION: germanywestcentral
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: SUBSCRIPTION-ID
+  SUBSCRIPTION-ID: 4c6ac4c7-8903-4b1d-b482-eb043a7a2d74
   WEBAPP-NAME: eshoponweb-webapp-AZ400ROgierGit
 
 
